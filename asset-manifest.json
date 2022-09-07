@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mark-falkland.github.io/csb-lfh8q5/static/css/main.773f07d3.chunk.css",
+    "main.js": "https://mark-falkland.github.io/csb-lfh8q5/static/js/main.f408b3ca.chunk.js",
+    "main.js.map": "https://mark-falkland.github.io/csb-lfh8q5/static/js/main.f408b3ca.chunk.js.map",
+    "runtime-main.js": "https://mark-falkland.github.io/csb-lfh8q5/static/js/runtime-main.255a31e2.js",
+    "runtime-main.js.map": "https://mark-falkland.github.io/csb-lfh8q5/static/js/runtime-main.255a31e2.js.map",
+    "static/js/2.95dc2a44.chunk.js": "https://mark-falkland.github.io/csb-lfh8q5/static/js/2.95dc2a44.chunk.js",
+    "static/js/2.95dc2a44.chunk.js.map": "https://mark-falkland.github.io/csb-lfh8q5/static/js/2.95dc2a44.chunk.js.map",
+    "index.html": "https://mark-falkland.github.io/csb-lfh8q5/index.html",
+    "static/css/main.773f07d3.chunk.css.map": "https://mark-falkland.github.io/csb-lfh8q5/static/css/main.773f07d3.chunk.css.map",
+    "static/js/2.95dc2a44.chunk.js.LICENSE.txt": "https://mark-falkland.github.io/csb-lfh8q5/static/js/2.95dc2a44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.255a31e2.js",
+    "static/js/2.95dc2a44.chunk.js",
+    "static/css/main.773f07d3.chunk.css",
+    "static/js/main.f408b3ca.chunk.js"
+  ]
+}
